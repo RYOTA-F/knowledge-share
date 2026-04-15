@@ -1,5 +1,9 @@
 # OpenClawとは
 
+![OpenClawとは](../images/OpenClawとは.png)
+
+---
+
 ## ひとことで言うと
 
 LINEやSlackに話しかけるだけで、パソコンの中の「もう一人のあなた」が仕事をしてくれる無料ツールです。
